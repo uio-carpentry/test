@@ -1,4 +1,4 @@
-## Carpentry@UiO
+# Carpentry@UiO
 
 To facilitate sharing and reusing of data among researchers, Software Carpentry, Data Carpentry and Library Carpentry workshops are offered to PhDs and researchers at UiO.
 
